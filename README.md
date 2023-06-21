@@ -1,10 +1,30 @@
-<h1 align="center">Hi 👋, I'm Sabheen Ammad</h1>
+<h1 align="center">Hi, I'm Sabheen Ammad</h1>
 <h3 align="center">A passionate Data Scientist</h3>
 
 
 <img align="right" alt="Data Scientist" width="400" src="https://cdn.rentechdigital.com/common_files/blogs/what-is-data-science-and-how-can-it-influence-decision-making-swipecart-blog-img-02-01-07-2022.gif">
 
-- 📫 How to reach me **sabheen_ammad@hotmail.com**
+- As a data scientist, I have a deep passion for exploring and analyzing complex data sets to uncover valuable insights and drive impactful business decisions.
+
+- I have extensive experience in developing and implementing predictive models, machine learning algorithms, and data-driven solutions across various areas. My areas of expertise include data classification, data visualization, exploratory data analysis, and feature engineering. Proficiency in programming languages like Python and SQL, along with familiarity with different data analysis and data visualization tools and frameworks, empowers me to handle diverse data challenges effectively.
+
+- Technical Skills:
+
+  • Machine Learning: classification, Predictive Data Modeling, clustering, feature engineering
+
+  • Software and Programming: Python (Scikit-Learn,Keras,Tensor Flow, NumPy, pandas), SQL
+  
+  • Data Visualization: Matplotlib, Seaborn,Plotly,Tableau
+  
+  • WebScrapping Tools: Scrapy,BeautifulSoup
+  
+  • Version Control: Git, Github
+  
+  • Tools: APIs, Jupyter Notebook, Visual Studio Code
+  
+  • Data Science Methods: Data Mining, Wrangling, Modelling, Predictive Analysis, Visualization, Storytelling
+
+ - 📫 How to reach me **sabheen_ammad@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
