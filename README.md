@@ -1,5 +1,8 @@
+![logo](https://github.com/sabheen9/sabheen9/blob/main/3.jpg)
 <h1 align="center">Hi, I'm Sabheen Ammad</h1>
 <h3 align="center">A passionate Data Scientist</h3>
+
+
 
 
 <img align="right" alt="Data Scientist" width="400" src="https://cdn.rentechdigital.com/common_files/blogs/what-is-data-science-and-how-can-it-influence-decision-making-swipecart-blog-img-02-01-07-2022.gif">
