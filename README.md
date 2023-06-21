@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm Sabheen Ammad</h1>
 <h3 align="center">A passionate Data Scientist</h3>
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sabheen9&label=Profile%20views&color=0e75b6&style=flat" alt="sabheen9" /> </p>
 
 
 <img align="right" alt="Data Scientist" width="400" src="https://cdn.rentechdigital.com/common_files/blogs/what-is-data-science-and-how-can-it-influence-decision-making-swipecart-blog-img-02-01-07-2022.gif">
